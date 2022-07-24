@@ -1,4 +1,4 @@
-# Hey, I'm Yasmeen :wave:
+# Hey, I'm Yasmeen ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 - <i>Currently:</i> CS Student at Oregon State University
 - <i>Previous Life:</i> Investor Relations and Portfolio Manager at a Startup
 
