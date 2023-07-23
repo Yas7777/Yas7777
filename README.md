@@ -7,6 +7,5 @@ Wanna chat? Reach out on ![Linkedin Badge](https://img.shields.io/badge/-yasmeen
 
 
 ### Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Yas7777&show_icons=true&include_all_commits=true)](https://github.com/Yas7777/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yas7777&layout=compact)](https://github.com/Yas7777/github-readme-stats)
 
